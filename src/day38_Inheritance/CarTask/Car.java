@@ -19,11 +19,11 @@ public class Car {
 
 
     public void start(){
-        System.out.println(brand + model + "is starting");
+        System.out.println(brand + " "+ model + " is starting");
     }
 
     public void drive(){
-        System.out.println(brand + model + " is driving");
+        System.out.println(brand + " " + model + " is driving");
     }
    /* public void fly(){
         fly() is not common for all the cars,and parent class
