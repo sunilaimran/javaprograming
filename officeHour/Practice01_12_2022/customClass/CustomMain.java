@@ -12,7 +12,7 @@ public class CustomMain {
 
             Car             c               =               new                              Car();
          Class         Object                              keyword to create Object        Constructor
-         */
+
 
 
     // Create a OBJECT CustomClass
@@ -61,6 +61,8 @@ public class CustomMain {
         System.out.println("c = " + c);
         System.out.println("c1 = " + c1);
         System.out.println("c2 = " + c2);
+
+     */
 
 }
 }
