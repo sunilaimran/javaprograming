@@ -6,7 +6,7 @@ public class Developer extends Employee{
         super(name, age, gender, employeeID, jobTitle, salary);
     }
 
-    public void fixingTheBug(){
+    public void fixingBugs(){
         System.out.println(getJobTitle()+" "+getName()+" is fixing the bug");
     }
 
