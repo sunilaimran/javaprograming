@@ -1,4 +1,4 @@
-import day_30_CostomClass.Dog;
+import day30_CostomClass.Dog;
 
 public class DogTask {
 
